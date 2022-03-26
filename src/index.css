@@ -1,0 +1,30 @@
+body{
+  background-color: #ffffff;
+}
+h2{
+  margin: 0;
+  padding-left: 25px;
+  padding-top: 25px;
+  text-align: left;
+}
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 7px;
+}
+#trade_name{
+  font: 77px sans-serif;
+  text-align: left;
+  background-color: #ffffff;
+  margin: 0;
+  padding-left: 10px;
+  border-color: #224F70;
+  border-style: solid;
+  border-width: 0 0 2px 0;
+}
+h1{
+  color:#000000;
+}
